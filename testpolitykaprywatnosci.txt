@@ -1,0 +1,21 @@
+Rejestracja nowego użytkownika na stronie wizzair.com
+
+Przypadki testowe:
+I Rejestracja nowego użytkownika bez akceptacji polityki prywatności
+Kroki:
+"1. Wejdz na https://wizzair.com/pl-pl/main-page#/
+2. Kliknij w prawym górnym rogu ZALOGUJ SIĘ
+3. Wybierz rejestracja
+4. Wprowadź imię
+5. Wprowadź nazwisko
+6. Wybierz płeć
+7. Wprowadź nr tel
+8. Wprowadź adres email -
+9. Wprowadź hasło
+10. Wybierz kraj
+11. Nie akceptuj politykę prywatności
+12. Kliknij przycisk ZAREJESTRUJ SIĘ"
+
+Oczekiwany rezultat:
+Rejestracja nie powodzie się
+Uzytkownik dostaje informację, o wymaganej akceptacji polityki prywatności.
